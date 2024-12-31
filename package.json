@@ -1,0 +1,22 @@
+{
+  "name": "randorama",
+  "version": "1.0.0",
+  "description": "npm package to generate random data",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunalr123/randorama.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Kunal Rathod",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kunalr123/randorama/issues"
+  },
+  "homepage": "https://github.com/kunalr123/randorama#readme"
+}
